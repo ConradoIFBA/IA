@@ -1,0 +1,6 @@
+google-generativeai
+gradio
+PyPDF2
+python-dotenv
+tqdm
+reportlab
