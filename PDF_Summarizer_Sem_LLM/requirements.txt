@@ -1,0 +1,11 @@
+pymupdf
+pdfplumber
+spacy
+scikit-learn
+networkx
+gradio
+pytesseract
+pdf2image
+pytest
+pypdf
+reportlab
